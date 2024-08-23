@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #002147, #004e92);
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #003366;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
+
+.hero {
+    background: linear-gradient(to bottom, #003366, #005bb5);
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    margin: 10px;
+    background-color: #C0C0C0;
+    color: #003366;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #e6b800;
+}
+
+.about, .skills, .projects, .contact {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #004e92;
+    margin: 20px 0;
+}
+
+.about{
+    background: linear-gradient(to bottom, #1E3A8A, #2563EB);
+}
+
+.skills{
+    background: linear-gradient(to bottom, #2563EB, #3B82F6);
+}
+
+.projects{
+    background: linear-gradient(to bottom, #3B82F6, #60A5FA);
+}
+
+.contact{
+    background: linear-gradient(to bottom, #0B1E37, #102A4C);
+}
+
+.about h2, .skills h2, .projects h2, .contact h2 {
+    font-size: 2em;
+}
+
+.skill-buttons, .project-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.projects p {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #003366;
+}
