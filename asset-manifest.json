@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mharvee/personal-website/static/css/main.de6ed29b.css",
+    "main.js": "/Mharvee/personal-website/static/js/main.03b207cc.js",
+    "index.html": "/Mharvee/personal-website/index.html",
+    "main.de6ed29b.css.map": "/Mharvee/personal-website/static/css/main.de6ed29b.css.map",
+    "main.03b207cc.js.map": "/Mharvee/personal-website/static/js/main.03b207cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6ed29b.css",
+    "static/js/main.03b207cc.js"
+  ]
+}
