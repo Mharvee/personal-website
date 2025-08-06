@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mharvee/personal-website/static/css/main.de6ed29b.css",
-    "main.js": "/Mharvee/personal-website/static/js/main.03b207cc.js",
-    "index.html": "/Mharvee/personal-website/index.html",
-    "main.de6ed29b.css.map": "/Mharvee/personal-website/static/css/main.de6ed29b.css.map",
-    "main.03b207cc.js.map": "/Mharvee/personal-website/static/js/main.03b207cc.js.map"
+    "main.css": "/personal-website/static/css/main.3d2ead95.css",
+    "main.js": "/personal-website/static/js/main.d4e59110.js",
+    "index.html": "/personal-website/index.html",
+    "main.3d2ead95.css.map": "/personal-website/static/css/main.3d2ead95.css.map",
+    "main.d4e59110.js.map": "/personal-website/static/js/main.d4e59110.js.map"
   },
   "entrypoints": [
-    "static/css/main.de6ed29b.css",
-    "static/js/main.03b207cc.js"
+    "static/css/main.3d2ead95.css",
+    "static/js/main.d4e59110.js"
   ]
 }
