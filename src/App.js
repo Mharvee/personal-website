@@ -1,5 +1,14 @@
 import React from "react";
+import { BrowserRouter } from 'react-router-dom';
+import YourRoutes from './YourRoutes'; // or your components
 
+function App() {
+  return (
+    <BrowserRouter basename="/personal-website">
+      <YourRoutes />
+    </BrowserRouter>
+  );
+}
 const Section = ({ title, children }) => (
   <section className="space-y-4 animate-fade-in-up">
     <h2 className="text-2xl font-semibold text-blue-300 border-b border-blue-500 pb-1 w-fit">
@@ -94,6 +103,11 @@ export default function App() {
     </ul>
   </div>
 </section>
+import { BrowserRouter } from 'react-router-dom';
+
+<BrowserRouter basename="/personal-website">
+  {/* your routes */}
+</BrowserRouter>
 
 
       {/* BLOG */}

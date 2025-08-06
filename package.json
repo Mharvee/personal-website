@@ -2,7 +2,7 @@
   "name": "ai-security-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Mharvee/personal-website",
+  "homepage": "https://Mharvee.github.io/personal-website",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
